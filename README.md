@@ -1,4 +1,4 @@
-# Simple React Redux App
+# React Redux Book Search App
 
 App that allows you to search through a book list and select one to display details. Combines React and Redux for state management.
 
