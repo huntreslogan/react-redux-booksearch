@@ -1,6 +1,6 @@
 # ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+App that allows you to search through a book list and select one to display details. Combines React and Redux for state management.
 
 ### Getting Started
 
